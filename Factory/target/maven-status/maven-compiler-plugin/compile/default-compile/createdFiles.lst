@@ -1,0 +1,10 @@
+org\example\PDFGenerator.class
+org\example\DishesFactory$1.class
+org\example\Enum$DishesType.class
+org\example\DishesFactory.class
+org\example\Juce.class
+org\example\Smusi.class
+org\example\Coktail.class
+org\example\App.class
+org\example\Enum.class
+org\example\Dishes.class
